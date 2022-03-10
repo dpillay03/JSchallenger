@@ -2,8 +2,7 @@
 // Sum a and b
 // Return the result
 function myFunction1(a, b) {
-  var sum = a + b;
-  return sum;
+  return a + b;
 }
 
 // Write a function that takes two values, say a and b, as arguments
