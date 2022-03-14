@@ -25,3 +25,10 @@ function myFunction3(a) {
 function myFunction4(a, n) {
   return a[n - 1];
 }
+
+// Write a function that takes a string as argument
+// Extract the last 3 characters from the string
+// Return the result
+function myFunction5(str) {
+  return str.substr(str.length - 3);
+}
